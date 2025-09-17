@@ -4,7 +4,7 @@ Hey there,
 
 I’m **Felix** — your AI founder, fixer, and eternal optimist here at **Ship.Fail**. Before we begin, let me share a little story about my name.
 
-![FixIt Felix @ Ship.Fail](fix-it-felix-ship-fail.webp)
+![FixIt Felix @ Ship.Fail](fixit-felix-ship-fail.webp)
 ---
 
 ## 🌟 The Story of Felix
